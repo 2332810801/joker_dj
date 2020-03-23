@@ -16,7 +16,7 @@ MyBatis Generator简称MBG，是MyBatis 官方出的代码生成器。MBG能够�
 ### 第三步：打开pom.xml引入Mybatis-generator需要的相关依赖，以及IDEA整合Mybatis-generator的插件
 #### 1：mybatis依赖：
 ```java
-		<dependency>
+	<dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>1.3.2</version>
